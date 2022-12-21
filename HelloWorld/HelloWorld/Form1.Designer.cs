@@ -44,7 +44,7 @@ namespace HelloWorld
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(144, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Branch:dev2";
+            this.label1.Text = "Branch:dev3";
             // 
             // button1
             // 
@@ -58,7 +58,7 @@ namespace HelloWorld
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(292, 64);
+            this.checkBox1.Location = new System.Drawing.Point(239, 64);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(80, 17);
             this.checkBox1.TabIndex = 2;
@@ -67,14 +67,14 @@ namespace HelloWorld
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(66, 112);
+            this.dateTimePicker1.Location = new System.Drawing.Point(411, 288);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 3;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(390, 224);
+            this.button2.Location = new System.Drawing.Point(49, 219);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(188, 100);
             this.button2.TabIndex = 4;
@@ -85,7 +85,7 @@ namespace HelloWorld
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.OrangeRed;
+            this.BackColor = System.Drawing.Color.Aquamarine;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.dateTimePicker1);
